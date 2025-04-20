@@ -1,5 +1,5 @@
-{
-  "version": "1.0.0",
-  "apk_name": "GTool.debug_latest.apk",
-  "apk_asset_url": "https://api.github.com/repos/tuelzd/GTool/releases/assets/247939915"
-}
+{ 
+  "version": "v1.0.0", 
+  "apk_name": "GTool.debug_latest.apk", 
+  "apk_url": "https://github.com/tuelzd/GTool/releases/download/v1.0.0/GTool.debug_latest.apk" 
+} 
