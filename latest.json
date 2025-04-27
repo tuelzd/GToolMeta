@@ -3,17 +3,9 @@
   "gtool": {
     "apk_name": "GTool.debug_0427.15.apk",
     "apk_asset_url": "https://api.github.com/repos/tuelzd/GTool/releases/assets/249866986"
-  },
-  "tiktok1": {
-    "apk_name": "tiktok1_update.apk",
-    "apk_asset_url": "https://api.github.com/repos/tuelzd/GTool/releases/assets/249866986"
-  },
-  "tiktok2": {
-    "apk_name": "tiktok2_update.apk",
-    "apk_asset_url": "https://api.github.com/repos/tuelzd/GTool/releases/assets/249866986"
-  }
+ 
+    "apk_tiktok2_name": "TikTok2_39.6.3_APKPure.apk", 
+    "apk_tiktok2_asset_url": "https://api.github.com/repos/tuelzd/GTool/releases/assets/249872343", 
+    "apk_tiktok2_name": "TikTok2_39.6.3_APKPure.apk", 
+    "apk_tiktok2_asset_url": "https://api.github.com/repos/tuelzd/GTool/releases/assets/249872343", 
 }
-    "apk_tiktok2_name": "TikTok2_39.6.3_APKPure.apk", 
-    "apk_tiktok2_asset_url": "https://api.github.com/repos/tuelzd/GTool/releases/assets/249872343", 
-    "apk_tiktok2_name": "TikTok2_39.6.3_APKPure.apk", 
-    "apk_tiktok2_asset_url": "https://api.github.com/repos/tuelzd/GTool/releases/assets/249872343", 
